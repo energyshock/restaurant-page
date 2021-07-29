@@ -38,28 +38,28 @@ function loadMenu() {
 
   const foods = [
     createFood(
-      '../dist/images/pizza 1.jpg',
+      'images/pizza 1.jpg',
       'Pizza Diavola',
       'Cheese, Tomato Sauce, Hot Salami',
       '7,90 €',
       'Pizza Diavola'
     ),
     createFood(
-      '../dist/images/pizza 2.jpg',
+      'images/pizza 2.jpg',
       'Pizza Pepperoni',
       'Cheese, Tomato Sauce, Salami, Pepperoni',
       '10,90 €',
       'Pizza Pepperoni'
     ),
     createFood(
-      '../dist/images/pizza 3.jpg',
+      'images/pizza 3.jpg',
       'Pizza Hawaii',
       'Cheese, Tomato Sauce, Pineapple, Ham',
       '10,50 €',
       'Pizza Hawaii'
     ),
     createFood(
-      '../dist/images/pizza 4.jpg',
+      'images/pizza 4.jpg',
       'Pizza Veggie',
       'Cheese, Tomato Sauce, Paprika, Onions',
       '9,90 €',

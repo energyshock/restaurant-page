@@ -12,7 +12,7 @@ function createSection(title) {
 	'Enjoy the pizzas and have a nice stay.';
 	
 	const img = document.createElement('img');
-	img.setAttribute('src', '../dist/images/pizza home.jpg');
+	img.setAttribute('src', 'images/pizza home.jpg');
 	img.setAttribute('alt', 'making pizza dough');
 	
 	home.appendChild(titleForPage);
