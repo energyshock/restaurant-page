@@ -1,0 +1,15 @@
+Home Seite
+    Navbar mit Home (ausgewählt), Menu und Contact
+    Hero Section mit Bild und Beschreibung
+    Footer
+
+Menu
+    Navbar mit Home, Menu (ausgewählt) und Contact
+    Section mit 4 Pizzen
+        Pizza mit Titel, Foto und kurzer Beschreibung
+    Footer
+
+Contact
+    Navbar mit Home, Menu und Contact (ausgewählt)
+    Section mit Kontaktformular ohne Funktion
+    Footer
