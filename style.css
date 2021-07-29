@@ -8,7 +8,7 @@ body {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
-  background-image: url(images/pizza\ bg.jpg);
+  background-image: url('images/pizza\ bg.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -58,7 +58,11 @@ body {
   text-transform: capitalize;
 }
 
-.open-slide, #openSlideMenu {
+.open-slide {
+  display: flex;
+}
+
+#openSlideMenu {
   display: flex;
   align-items: center;
 }
